@@ -12,5 +12,14 @@ body {
   background-color: #e76f51;
   color: white;
   font-weight: 700;
-  width: 6rem;
+  width: 6.5rem;
+}
+
+hr {
+  border: 1px solid #e76f51;
+  width: 100px;
+}
+
+.grayscale img {
+  filter: grayscale(100%);
 }
